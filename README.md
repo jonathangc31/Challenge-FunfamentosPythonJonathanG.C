@@ -84,11 +84,6 @@ Ejecuta las celdas en orden (menú Runtime > Run all en Colab).
 
 Los gráficos y resultados se generarán automáticamente en cada sección.
 
-📂 Fuentes de datos
-
-Los datasets se cargan directamente desde GitHub:
-
-https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/
 
 ✍️ Autor
 
